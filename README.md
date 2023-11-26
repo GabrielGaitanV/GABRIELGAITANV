@@ -1,7 +1,7 @@
 [![banner-2.png](https://i.postimg.cc/Fs0hWMTP/banner-2.png)](https://postimg.cc/BXQWtV9D)
 <h3 align="center">Desarrollador web full stack, creativo y con orientaxion al front end. Me encuentro en busqueda de nuevos desafios, en una empresa que me permita potenciar mi desarrollo profesional y personal</h3>
 
-- 💬 Preguntame sobre esto **HTML5, CSS, JAVASCRIPT, MySQL, APIREST y REACT**
+- 💬 Preguntame sobre esto **JAVA, HTML5, CSS, JAVASCRIPT, MySQL, APIREST y REACT**
 
 - 📫 Por aca me puedes conctactar **gabrielgaitanveng@gmail.com**
 
